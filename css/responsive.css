@@ -584,6 +584,9 @@ margin-left:10px
 
 @media screen and (max-width: 320px){
 	/*header*/
+	.head1-slider span {
+		font-size: 7.5px;
+	}
 	span.trends {
 		margin-left: 10px;
 	}  
@@ -621,6 +624,13 @@ margin-left:10px
 	/*footer*/
 	.footer .main-item.type-2 .main-excerpt {
 		width: 69%;
+	}
+	.last {
+		padding-bottom: 10px;
+		width: 35%;
+	}
+	.footer .main-item.type-2 .main-excerpt {
+		width: 65%;
 	}
 	/*footer ends*/
 }
