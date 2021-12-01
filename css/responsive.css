@@ -511,6 +511,16 @@ margin-left:10px
 
 
 @media screen and (max-width: 390px){
+	.head1 .trends {
+		margin-left: 10px;
+		margin-top: 22px;
+	}
+	.head1-slider span{
+		font-size:11px;
+	}
+	.head1-slider .slick-arrow i{
+		margin-top:11px;
+	}
 	/*main-section*/
 	/*treks-section*/
 	.treks-section .main-item .post-content {
