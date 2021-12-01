@@ -560,6 +560,9 @@ margin-left:10px
 
 
 @media screen and (max-width: 360px){
+	.head1-slider span {
+		font-size: 9.5px;
+	}
 	.treks-section .main-item .post-content {
 		top: 202px;
 	}
@@ -569,6 +572,13 @@ margin-left:10px
 	/*footer section*/
 	.footer .main-item.type-2 .main-excerpt {
 		width: 73%;
+	}
+	.last {
+		padding-bottom: 10px;
+		width: 41%;
+	}
+	.footer .main-item.type-2 .main-excerpt {
+		width: 59%;
 	}
 }
 
